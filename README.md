@@ -7,7 +7,7 @@
   i'm a developer with a focus on <strong>Front-End</strong>
 </p>
 
-<p align="left">
+<pre align="left">
   🦄 Skills 👊: 
   <strong>
     HTML5 ✔️
@@ -21,19 +21,19 @@
     Mysql ✔️
     Scrum 👊
   </strong>
-</p>
+</pre>
 
 <p align="left">
   💼 Tools: <strong>Visual Studio Code, Figma, Adobe XD.</strong>
 </p>
 
-<p align="left">
+<pre align="left">
     👽 Learning ☠️:
     Typescript  💪
     NextJS 💪
     VueJS 💪
     Docker 💪
-    
+</pre>  
 
 <p align="left">
   💌 How to reach me : edson.fernandes.01@hotmail.com
