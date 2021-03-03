@@ -3,11 +3,9 @@
 
 <img src="https://www.freecodecamp.org/news/content/images/2020/03/illustration_cover.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
-<p align="left"> 
-  i'm a developer with a focus on <strong>Front-End</strong>
-</p>
-
 <pre align="left">
+  i'm a developer with a focus on <strong>Front-End</strong>
+  
   🦄 Skills 👊: 
   <strong>
     HTML5 ✔️
