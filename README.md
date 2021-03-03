@@ -8,9 +8,7 @@
   🦄 Skills 👊: 
   <strong>
     HTML5 ✔️
-    CSS3(
-    Sass, Flexbox, Grid Layout, TailWind, Bootstrap
-    ) ✔️
+    CSS3(Sass, Flexbox, Grid Layout, Bootstrap) ✔️
     JavaScript ✔️
     ReactJS ✔️
     React-native ✔️
