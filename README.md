@@ -16,6 +16,9 @@
     Php ✔️
     Git ✔️
     Mysql ✔️
+    
+    
+  🎯 Metodologia:
     Scrum 👊
   </strong>
 </pre>
@@ -25,7 +28,7 @@
 </p>
 
 <pre align="left">
-    👽 Learning:
+  👽 Learning:
     <strong>
     Typescript 📚
     NextJS 📚
