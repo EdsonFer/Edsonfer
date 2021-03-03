@@ -31,6 +31,7 @@
     NextJS 🥰
     VueJS 🥰
     Docker 🥰
+    TailWind 🥰
     </strong>
 </pre>  
 
