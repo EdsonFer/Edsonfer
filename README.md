@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Edson Fernandes</h1>
 
-<img src="https://www.freecodecamp.org/news/content/images/2020/03/illustration_cover.png" height="300px" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
+<img src="https://www.freecodecamp.org/news/content/images/2020/03/illustration_cover.png" height="320px" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 <pre align="left">
   i'm a developer with a focus on <strong>Front-End</strong>
