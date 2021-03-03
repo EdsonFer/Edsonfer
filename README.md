@@ -27,11 +27,11 @@
 <pre align="left">
     👽 Learning:
     <strong>
-    Typescript 🥰
-    NextJS 🥰
-    VueJS 🥰
-    Docker 🥰
-    TailWind 🥰
+    Typescript 📚
+    NextJS 📚
+    VueJS 📚
+    Docker 📚
+    TailWind 📚
     </strong>
 </pre>  
 
