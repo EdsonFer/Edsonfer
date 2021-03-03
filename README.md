@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Edson Fernandes</h1>
+<p align ="center"> i'm a developer with a focus on <strong>Front-End</strong></p>
 
-<img src="https://www.freecodecamp.org/news/content/images/2020/03/illustration_cover.png" height="320px" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
+<img src="https://e3z7c6v7.rocketcdn.me/blog/wp-content/uploads/2020/01/original-e8278705fab1f1036f26c2419edf8f0f.jpeg" height="320px" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 <pre align="left">
-  i'm a developer with a focus on <strong>Front-End</strong>
   
   🦄 Skills 👊: 
   <strong>
     HTML5 ✔️
-    CSS3 (Sass,Flexbox, Grid Layout, TailWind, Bootstrap) ✔️
+    CSS3 (Sass, Flexbox, Grid Layout, TailWind, Bootstrap) ✔️
     JavaScript ✔️
     ReactJS ✔️
     React-native ✔️
@@ -27,11 +27,12 @@
 
 <pre align="left">
     👽 Learning:
-    
-    Typescript  💪
-    NextJS 💪
-    VueJS 💪
-    Docker 💪
+    <strong>
+    Typescript  🥰
+    NextJS 🥰
+    VueJS 🥰
+    Docker 🥰
+    </strong>
 </pre>  
 
 <p align="left">
