@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Edson Fernandes</h1>
 <p align ="center"> i'm a developer with a focus on <strong>Front-End</strong></p>
 
-<img src="https://e3z7c6v7.rocketcdn.me/blog/wp-content/uploads/2020/01/original-e8278705fab1f1036f26c2419edf8f0f.jpeg" height="320px" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
+<img src="https://e3z7c6v7.rocketcdn.me/blog/wp-content/uploads/2020/01/original-e8278705fab1f1036f26c2419edf8f0f.jpeg" height="300px" min-width="400px" max-width="400px" width="100%" align="right" alt="Code">
 
 <pre align="left">
   🦄 Skills 👊: 
