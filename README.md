@@ -9,7 +9,7 @@
   🦄 Skills 👊: 
   <strong>
     HTML5 ✔️
-    CSS3 ( Sass,Flexbox, Grid Layout, TailWind, Bootstrap ) ✔️
+    CSS3 (Sass,Flexbox, Grid Layout, TailWind, Bootstrap) ✔️
     JavaScript ✔️
     ReactJS ✔️
     React-native ✔️
@@ -26,7 +26,8 @@
 </p>
 
 <pre align="left">
-    👽 Learning ☠️:
+    👽 Learning:
+    
     Typescript  💪
     NextJS 💪
     VueJS 💪
