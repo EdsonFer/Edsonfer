@@ -5,7 +5,6 @@
 <img src="https://e3z7c6v7.rocketcdn.me/blog/wp-content/uploads/2020/01/original-e8278705fab1f1036f26c2419edf8f0f.jpeg" height="320px" min-width="400px" max-width="400px" width="400px" align="right" alt="Code">
 
 <pre align="left">
-  
   🦄 Skills 👊: 
   <strong>
     HTML5 ✔️
@@ -28,7 +27,7 @@
 <pre align="left">
     👽 Learning:
     <strong>
-    Typescript  🥰
+    Typescript 🥰
     NextJS 🥰
     VueJS 🥰
     Docker 🥰
