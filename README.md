@@ -11,8 +11,6 @@
     CSS3(Sass, Flexbox, Grid Layout, Bootstrap) ✔️
     JavaScript ✔️
     ReactJS ✔️
-    React-native ✔️
-    Node.Js ✔️
     Php ✔️
     Git ✔️
     Mysql ✔️
@@ -32,8 +30,6 @@
     <strong>
     Typescript 📚
     NextJS 📚
-    VueJS 📚
-    Docker 📚
     TailWind 📚
     </strong>
 </pre>  
