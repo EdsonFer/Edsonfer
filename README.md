@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Edson Fernandes</h1>
-<p align ="center"> i'm a <strong>Front-End</strong></p> developer
+<p align ="center"> i'm a <strong>Front-End</strong> developer</p>
 
 <img src="https://e3z7c6v7.rocketcdn.me/blog/wp-content/uploads/2020/01/original-e8278705fab1f1036f26c2419edf8f0f.jpeg" height="300px" min-width="300px" max-width="300px" align="right" alt="Code">
 
