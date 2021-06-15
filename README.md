@@ -9,9 +9,9 @@
   <strong>
     HTML5 ✔️
     CSS3(Sass, Flexbox, Grid Layout, Bootstrap) ✔️
-    JavaScript ✔️
-    ReactJS ✔️
+    JavaScript(ES6+) ✔️
     Node.js ✔️
+    ReactJS ✔️
     MongoDB ✔️
     Mysql ✔️
     Git ✔️
