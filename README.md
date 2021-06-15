@@ -11,7 +11,7 @@
     CSS3(Sass, Flexbox, Grid Layout, Bootstrap) ✔️
     JavaScript ✔️
     ReactJS ✔️
-    Node js ✔️
+    Node.js ✔️
     MongoDB ✔️
     Mysql ✔️
     Git ✔️
