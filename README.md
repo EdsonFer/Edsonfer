@@ -12,7 +12,6 @@
     JavaScript(ES6+) ✔️
     Node.js ✔️
     ReactJS ✔️
-    MongoDB ✔️
     Mysql ✔️
     Git ✔️
     
