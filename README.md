@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Edson Fernandes</h1>
-<p align ="center"> i'm a <strong>Full Stack</strong> developer</p>
+<p align ="center"> i'm a <strong>Front-end Developer</strong> developer</p>
 
 <img src="https://e3z7c6v7.rocketcdn.me/blog/wp-content/uploads/2020/01/original-e8278705fab1f1036f26c2419edf8f0f.jpeg" height="300px" min-width="300px" max-width="300px" align="right" alt="Code">
 
@@ -10,11 +10,11 @@
     HTML5 ✔️
     CSS3(Sass, Flexbox, Grid Layout, Bootstrap) ✔️
     JavaScript(ES6+) ✔️
-    Node.js ✔️
     ReactJS ✔️
+    Redux Saga ✔️
+    TypeScript ✔️
     Mysql ✔️
     Git ✔️
-    
     
   🎯 Metodologia:
     Scrum 👊
@@ -22,13 +22,12 @@
 </pre>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma, Adobe XD.</strong>
+  💼 Tools: <strong>Visual Studio Code, Figma.</strong>
 </p>
 
 <pre align="left">
   👽 Learning:
     <strong>
-    Typescript 📚
     NextJS 📚
     </strong>
 </pre>  
