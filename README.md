@@ -8,10 +8,9 @@
   🦄 Skills 👊: 
   <strong>
     HTML5 ✔️
-    CSS3(Sass, Flexbox, Grid Layout, Bootstrap) ✔️
+    CSS3(Sass, Bootstrap) ✔️
     JavaScript(ES6+) ✔️
     ReactJS ✔️
-    Redux Saga ✔️
     TypeScript ✔️
     Mysql ✔️
     Git ✔️
@@ -28,6 +27,7 @@
 <pre align="left">
   👽 Learning:
     <strong>
+    Redux
     NextJS 📚
     </strong>
 </pre>  
