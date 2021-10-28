@@ -41,6 +41,7 @@
 <p align="left">
   ⚡ Fun fact **My favorite game is The last of us.**
 </p>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -49,8 +50,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonFer&layout=compact&theme=vision-friendly-dark" alt="Edson's most languages"/>
 </p>
 
-<br><br>
-
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
