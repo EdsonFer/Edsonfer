@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Edson Fernandes</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Edson Fernandes</h1>
 <p align ="center"> i'm a <strong>Front-end </strong> Developer</p>
 
 <img src="https://e3z7c6v7.rocketcdn.me/blog/wp-content/uploads/2020/01/original-e8278705fab1f1036f26c2419edf8f0f.jpeg" height="300px" min-width="300px" max-width="300px" align="right" alt="Code">
 
 <pre align="left">
-  🦄 Skills 👊: 
+## 🛠 &nbsp;Tech Stack
   <strong>
     HTML5 ✔️
     CSS3  ✔️
@@ -42,11 +42,25 @@
   ⚡ Fun fact **My favorite game is The last of us.**
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EdsonFer&show_icons=true&theme=vision-friendly-dark" alt="Edson's Stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonFer&layout=compact&theme=vision-friendly-dark" alt="Edson's most languages"/>
+</p>
 
-<a href="https://www.linkedin.com/in/edson-fernandes-de-oliveira/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/EdsonFernandes38/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/edsonfnz/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>  
+<br><br>
+
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+  
+<a href="https://www.linkedin.com/in/edson-fernandes-de-oliveira/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Edson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/edsonfnz/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Edson-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+</p>
