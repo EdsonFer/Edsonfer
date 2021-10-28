@@ -45,8 +45,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EdsonFer&show_icons=true&theme=vision-friendly-dark" alt="Edson's Stats"/>
+<p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonFer&layout=compact&theme=vision-friendly-dark" alt="Edson's most languages"/>
 </p>
 
