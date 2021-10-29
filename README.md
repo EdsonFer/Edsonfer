@@ -46,20 +46,16 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonFer&layout=compact&theme=vision-friendly-dark" alt="Edson's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonFer&layout=compact&theme=react&hide_border=true" alt="Edson's most languages"/>
 </p>
 
 <br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
+## 💬 &nbsp;Social Links
+<p align="center">
   
-<a href="https://www.linkedin.com/in/edson-fernandes-de-oliveira/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Edson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/edsonfnz/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Edson-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<a href="https://www.linkedin.com/in/edson-fernandes-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/edsonfnz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 </p>
+
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
