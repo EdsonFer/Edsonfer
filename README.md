@@ -14,6 +14,7 @@
     Bootstrap ✔️
     JavaScript(ES6+) ✔️
     ReactJS ✔️
+    NextJS ✔️
     TypeScript ✔️
     Mysql ✔️
     Git ✔️
@@ -28,8 +29,7 @@
 <pre align="left">
   👽 Learning:
     <strong>
-    Redux
-    NextJS 📚
+    Redux 📚
     </strong>
 </pre>  
 
