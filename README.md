@@ -9,12 +9,11 @@
 🛠 Tech Stack
 
     HTML5 ✔️
-    CSS3  ✔️
-    Sass ✔️
-    Bootstrap ✔️
+    CSS3 (Sass,Bootstrap)✔️
     JavaScript(ES6+) ✔️
     ReactJS ✔️
     NextJS ✔️
+    Styled-Components ✔️    
     TypeScript ✔️
     Mysql ✔️
     Git ✔️
