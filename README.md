@@ -25,8 +25,6 @@
 
  💼 Tools: <strong>Visual Studio Code, Figma.</strong>
 
-<br>
-
 <p align="left">
   ⚡ Fun fact **My favorite game is The last of us.**
 </p>
