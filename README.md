@@ -25,13 +25,6 @@
 
  💼 Tools: <strong>Visual Studio Code, Figma.</strong>
 
-<pre align="left">
-  👽 Learning:
-    <strong>
-    Redux 📚
-    </strong>
-</pre>  
-
 <br>
 
 <p align="left">
