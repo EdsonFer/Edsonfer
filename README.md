@@ -1,25 +1,26 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Edson Fernandes</h1>
+<h1 align="center">Hi, I'm Edson Fernandes</h1>
 <p align ="center"> i'm a <strong>Front-end </strong> Developer</p>
 
 <img src="https://hermes.digitalinnovation.one/articles/cover/f72e3973-b571-4872-9859-ef1f49cd3ebe.png" height="300px" min-width="300px" max-width="300px" align="right" alt="Code">
 
 <pre align="left">
 <strong>
-🛠 Tech Stack
-
-    HTML5 ✔️
-    CSS3 (Sass,Bootstrap)✔️
-    JavaScript(ES6+) ✔️
-    ReactJS ✔️
-    NextJS ✔️
-    Styled-Components ✔️    
-    TypeScript ✔️
-    Mysql ✔️
-    Git ✔️
-    
-  🎯 Metodologia:
-    Scrum 👊
+🛠 Tech Stack  
+Linguagens de programação:
+   javaScript (ES6+) ✔️
+   TypeScript ✔️
+Frameworks e bibliotecas:
+   ReactJS ✔️
+   NextJS ✔️
+Estilização:
+   CSS (Tailwind, Styled-Components) ✔️
+Backend e Banco de Dados:
+   Node.js ✔️
+   MySQL ✔️
+Controle de versão e Metodologia Ágil:
+   Git ✔️
+   Scrum ✔️
   </strong>
 </pre>
 
