@@ -14,17 +14,18 @@ Frameworks e bibliotecas:
    ReactJS ✔️
    NextJS ✔️
 Estilização:
-   CSS (Tailwind, Styled-Components) ✔️
-Backend e Banco de Dados:
+   Css ✔️
+   Tailwind ✔️
+   Chakra UI ✔️
+Backend:
    Node.js ✔️
-   MySQL ✔️
 Controle de versão e Metodologia Ágil:
    Git ✔️
    Scrum ✔️
   </strong>
 </pre>
 
- 💼 Tools: <strong>Visual Studio Code, Figma.</strong>
+ 💼 Tools: <strong>Visual Studio Code, Figma, Storybook.</strong>
 
 <p align="left">
   ⚡ Fun fact **My favorite game is The last of us.**
