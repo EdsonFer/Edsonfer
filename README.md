@@ -7,19 +7,21 @@
 <pre align="left">
 <strong>
 🛠 Tech Stack  
-Linguagens de programação:
    javaScript (ES6+) ✔️
    TypeScript ✔️
-Frameworks e bibliotecas:
    ReactJS ✔️
    NextJS ✔️
-Estilização:
+   Redux ✔️
+   Docker ✔️
+   GraphQL ✔️
+   Electron ✔️
+   Jest ✔️
+   Cypress ✔️
    Css ✔️
    Tailwind ✔️
-   Chakra UI ✔️
-Backend:
+   Styled Components ✔️
+   Sass ✔️
    Node.js ✔️
-Controle de versão e Metodologia Ágil:
    Git ✔️
    Scrum ✔️
   </strong>
